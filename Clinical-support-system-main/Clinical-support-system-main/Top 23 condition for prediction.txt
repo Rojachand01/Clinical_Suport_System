@@ -1,0 +1,24 @@
+Birth Control              28788
+Depression                 9069 
+Pain                       6145 
+Anxiety                    5904 
+Acne                       5588 
+Bipolar Disorde            4224 
+Insomnia                   3673 
+Weight Loss                3609 
+Obesity                    3568 
+Diabetes, Type 2           2554 
+High Blood Pressure        2321 
+Vaginal Yeast Infection    2274 
+Migraine                   1694 
+Constipation               1595 
+Bacterial Infection        945  
+Cough                      927  
+Nausea/Vomiting            747  
+Back Pain                  616  
+High Cholesterol           611  
+Asthma                     225  
+Cluster Headaches          166  
+Diarrhea                   110  
+Abortion                   7    
+Name: condition, dtype: int64
